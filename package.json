@@ -1,0 +1,22 @@
+{
+  "name": "isaacstyle-resume",
+  "version": "8.0.8",
+  "description": "a resume i tink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "it",
+    "is",
+    "resume",
+    "probably"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
+
+
